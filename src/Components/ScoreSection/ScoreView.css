@@ -1,0 +1,10 @@
+.score-view {
+    margin: 15px 0;
+    padding: 10px;
+    background-color: #e9ecef;
+    border-radius: 5px;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+  }

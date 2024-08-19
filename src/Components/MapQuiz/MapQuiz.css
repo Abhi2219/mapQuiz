@@ -1,0 +1,23 @@
+.map-quiz-container {
+
+    height: 100vh;
+    overflow: hidden;
+}
+
+.map-container {
+    width: 75%;
+    height: 100%;
+}
+
+.feedback-message {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+    padding: 10px 15px;
+    background-color: #f0f4f8;
+    border: 1px solid #d0d7de;
+    border-radius: 5px;
+    color: #333;
+    font-size: 16px;
+    height: 14px;
+}
